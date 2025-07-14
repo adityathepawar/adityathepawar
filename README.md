@@ -25,10 +25,10 @@
 ## 📌 Featured Projects
 
 ### 📄 PDF Apps
-- **[PDF Summarizer & Chatbot](https://github.com/adityathepawar/pdf-summarizer-chatbot)**  
+- **[PDF Summarizer & Chatbot](https://github.com/adityathepawar/PDFsummarizer_chat)**  
   Upload any PDF, get a summary, and chat with the document using OpenRouter LLM + Streamlit.
 
-- **[PDF Summarizer API (FastAPI)](https://github.com/adityathepawar/pdf-summarizer-api)**  
+- **[PDF Summarizer API (FastAPI)](https://pdf-summarizer-fastapi.onrender.com)**  
   REST API to summarize and chat with PDFs using DeepSeek and FastAPI — deployable on Render.
 
 ---
@@ -37,34 +37,28 @@
 - **[EduScrape](https://github.com/adityathepawar/EduScrape)**  
   Enter a Google Scholar ID → get H-index, i10-index, citation stats, co-authors + LLM chat.
 
-- **[Voice Grammar Analyzer](https://github.com/adityathepawar/voice-grammar-monitor)**  
+- **[Voice Grammar Analyzer](https://github.com/adityathepawar/voiceRecg)**  
   Record audio, convert to text, check grammar, and get confidence score with a plotted graph.
-
-- **[Attrition Predictor (Early Warning System)](https://github.com/adityathepawar/attrition-warning-system)**  
-  ML-based app to predict employee attrition and performance from admin-entered survey scores.
 
 ---
 
 ### 🧑‍💻 Face Recognition Projects
-- **[Face Recognition + Pose Registration System](https://github.com/adityathepawar/face-pose-registration)**  
+- **[Face Recognition + Pose Registration System](https://github.com/adityathepawar/faceRecg)**  
   Register faces with 5 poses (left, right, front, up, down) using InsightFace + Mediapipe + Streamlit.
 
-- **[Real-Time Face Attendance Monitor](https://github.com/adityathepawar/face-attendance-monitor)**  
+- **[Real-Time Face Attendance Monitor](https://github.com/adityathepawar/faceRecg)**  
   Detect live users, verify admin identity, log attendance, track presence hours — 50K+ scale ready.
 
-- **[Face System with Liveness + Smart Device Detection](https://github.com/adityathepawar/face-monitoring-liveness)**  
+- **[Face System with Liveness + Smart Device Detection](https://github.com/adityathepawar/faceRecg)**  
   Combines YOLOv8 smart device detection, InsightFace recognition, pose tracking, and MongoDB.
-
-- **[FastMCP Server Integration](https://github.com/adityathepawar/fastmcp-monitor)**  
-  Central server for face recognition system using FastMCP (Monitoring Control Point architecture).
 
 ---
 
 ### 🖥️ Monitoring & Tracking Tools
-- **[Chrome Activity Logger Extension](https://github.com/adityathepawar/chrome-monitor-extension)**  
+- **[Chrome Activity Logger Extension](https://github.com/adityathepawar/chromeMonitorExtension)**  
   Tracks all user browser actions (clicks, scrolls, links, forms), logs locally, and supports Native Messaging.
 
-- **[Website Interaction Logger](https://github.com/adityathepawar/web-tracker-logger)**  
+- **[Website Interaction Logger](https://github.com/adityathepawar/webTrackingMoniter)**  
   Capture user inputs, redirections, form submissions, and actions performed — ideal for internal monitoring.
 
 ---
@@ -79,7 +73,7 @@
 ## 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pawarsixtynine@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/adityathepawar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/adityathepawar](https://linkedin.com/in/adityathepawar))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox)](https://your-portfolio-link.com)
 
 ---
