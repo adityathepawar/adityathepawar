@@ -73,7 +73,7 @@
 ## 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pawarsixtynine@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/adityathepawar](https://linkedin.com/in/adityathepawar))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/adityathepawar)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox)](https://your-portfolio-link.com)
 
 ---
