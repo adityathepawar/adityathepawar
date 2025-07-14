@@ -6,19 +6,34 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
-![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=)
-![InsightFace](https://img.shields.io/badge/-InsightFace-333?style=flat)
-![Mediapipe](https://img.shields.io/badge/-MediaPipe-333?style=flat)
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-333?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Chrome Extension](https://img.shields.io/badge/-Chrome_Extension-333?style=flat&logo=googlechrome)
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧠 AI/ML & LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0080FF?style=for-the-badge&logo=deepnote&logoColor=white)
+
+### 📊 Frameworks & APIs
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🤖 Computer Vision & Detection
+![InsightFace](https://img.shields.io/badge/InsightFace-blue?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-black?style=for-the-badge)
+
+### 🗃️ Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🌐 Other Tools
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Render](https://img.shields.io/badge/Render-2A2A2A?style=for-the-badge&logo=render&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
