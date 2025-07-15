@@ -63,13 +63,13 @@
 ---
 
 ### 🧑‍💻 Face Recognition Projects
-- **[Face Recognition + Pose Registration System](https://github.com/adityathepawar/faceRecg)**  
+- **[Face Recognition + Pose Registration System](https://github.com/adityathepawar/faceRecognition)**  
   Register faces with 5 poses (left, right, front, up, down) using InsightFace + Mediapipe + Streamlit.
 
-- **[Real-Time Face Attendance Monitor](https://github.com/adityathepawar/faceRecg)**  
+- **[Real-Time Face Attendance Monitor](https://github.com/adityathepawar/faceRecognition)**  
   Detect live users, verify admin identity, log attendance, track presence hours — 50K+ scale ready.
 
-- **[Face System with Liveness + Smart Device Detection](https://github.com/adityathepawar/faceRecg)**  
+- **[Face System with Liveness + Smart Device Detection](https://github.com/adityathepawar/faceRecognition)**  
   Combines YOLOv8 smart device detection, InsightFace recognition, pose tracking, and MongoDB.
 
 ---
